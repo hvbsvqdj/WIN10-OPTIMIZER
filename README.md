@@ -122,13 +122,7 @@ If you find this tool useful, consider showing your support by [donating through
 Be a part of our [Discord](https://discord.gg/ktTWeTsJ) community.
 
 <center>
-<h2> ❤️ Credits and Acknowledgments</h2>
-</center>
 
-- [ByteSize](https://github.com/omar/ByteSize) - A useful library by Omar Rahman
-- ColorPicker - Theme engine, courtesy of cat ([GitHub Profile](https://github.com/vadiscode))
-
-<center>
 <h2> ❤️ Translations</h2>
 </center>
 
