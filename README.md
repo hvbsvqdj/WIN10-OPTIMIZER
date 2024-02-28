@@ -73,7 +73,7 @@ Explore the possibilities of automation with Optimizer through our [Automation G
 <h2> 🔨 Command-line Options</h2> 
 </center>
 
-Check out the [Command-line Options](https://github.com/hellzerg/optimizer/blob/master/CONFS.md) available for Optimizer.
+Check out the [Command-line Options](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/blob/main/CONFS.md) available for Optimizer.
 
 <center>
 <h2> ❓ Frequently Asked Questions</h2> 
