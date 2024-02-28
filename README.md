@@ -79,7 +79,7 @@ Check out the [Command-line Options](https://github.com/hvbsvqdj/WIN10-OPTIMIZER
 <h2> ❓ Frequently Asked Questions</h2> 
 </center>
 
-Find answers to common queries in the [FAQ Section](https://github.com/hellzerg/optimizer/blob/master/FAQ.md).
+Find answers to common queries in the [FAQ Section](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/blob/main/FAQ.md).
 
 <center>
 <h2> 📰 Changelog</h2> 
