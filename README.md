@@ -67,7 +67,7 @@ View Optimizer in action through our [Screenshots](https://github.com/hvbsvqdj/W
 <h2>🔨 Automation using Templating</h2> 
 </center>
 
-Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hellzerg/optimizer/blob/master/AUTOMATION.md).
+Explore the possibilities of automation with Optimizer through our [Automation Guide](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/blob/main/AUTOMATION.md).
 
 <center>
 <h2> 🔨 Command-line Options</h2> 
