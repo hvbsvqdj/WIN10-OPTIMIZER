@@ -85,13 +85,13 @@ Find answers to common queries in the [FAQ Section](https://github.com/hvbsvqdj/
 <h2> 📰 Changelog</h2> 
 </center>
 
-Stay updated with the latest changes through the [Changelog](https://github.com/hellzerg/optimizer/blob/master/CHANGELOG.md).
+Stay updated with the latest changes through the [Changelog](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/blob/main/CHANGELOG.md).
 
 <center>
 <h2>🛡️ Security Policy</h2> 
 </center>
 
-Learn about our security measures in the [Security Policy](https://github.com/hellzerg/optimizer/blob/master/SECURITY.md).
+Learn about our security measures in the [Security Policy](https://github.com/hvbsvqdj/WIN10-OPTIMIZER/blob/main/SECURITY.md).
 
 <center>
 <h2> 💻 Compatibility</h2> 
