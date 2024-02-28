@@ -118,7 +118,7 @@ If you find this tool useful, consider showing your support by [donating through
 <h2> 🌐 Join our Community</h2>
 </center>
 
-Be a part of our [Discord](https://discord.gg/rZh8BhmmQv) community.
+Be a part of our [Discord](https://discord.gg/ktTWeTsJ) community.
 
 <center>
 <h2> ❤️ Credits and Acknowledgments</h2>
