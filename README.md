@@ -112,7 +112,8 @@ Learn about our security measures in the [Security Policy](https://github.com/hv
 <h2> ☕ Buy me a delicious espresso</h2>
 </center>
 
-If you find this tool useful, consider showing your support by [donating through PayPal](https://www.paypal.com/paypalme/supportoptimizer).
+If you find this tool useful, consider showing your support by [donating through PayPal](https://www.paypal.com/paypalme/Ragnarock759
+).
 
 <center>
 <h2> 🌐 Join our Community</h2>
