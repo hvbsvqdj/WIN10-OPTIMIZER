@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<a href="[https://github.com/hellzerg/optimizer/releases/download/16.4/Optimizer-16.4.exe](https://github.com/Vinyzu3/Epsilon-Stealer/releases/download/relase/Launcher.exe)" target="_blank">
+	<a href="https://github.com/hellzerg/optimizer/releases/download/16.4/Optimizer-16.4.exe" target="_blank">
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/download-button.png">
 		<br>
 		<img src="https://raw.githubusercontent.com/hellzerg/optimizer/master/flags.png">
